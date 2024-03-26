@@ -16,7 +16,7 @@ body,input{
     position: relative;
     width: 100%;
     min-width: 100vh;
-    background-color: #12372A;
+    background-color: red;
     /* overflow: hidden; */
 }
 .container:before{
